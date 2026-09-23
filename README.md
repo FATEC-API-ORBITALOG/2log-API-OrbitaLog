@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) 
+# ORBITALOG  
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -51,11 +51,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 7 | Alta | Como gestor de trânsito, quero visualizar indicadores básicos de mortes, sinistros e frota, para que eu tenha uma medição imediata da situação geral do país. | 5 | 1 |
 | 9 | Alta |Como gestor público, quero ter uma visão geral nacional dos indicadores, para obter uma compreensão rápida e consolidada da situação da segurança viária, apoiando a tomada de decisões estratégicas| 8 | 2 |
 | 10 | Alta | Como fiscal de trânsito, quero visualizar os dados através de um mapa interativo por estado, para que eu consiga identificar geograficamente as regiões com maior número de acidentes. | 8 | 2 |
-| 11 | Alta | Como Secretário de Mobilidade, quero acessar o ranking dos estados com maiores índices de mortalidade, para que possamos direcionar verbas e recursos para os locais mais críticos. | 5 | 2 |
-| 12 | Alta | Como analista econômico, quero acompanhar a evolução dos indicadores de 2015 a 2025 em gráficos, para que eu avalie a efetividade das leis e políticas aplicadas ao longo dos anos. | 5 | 2 |
+| 11 | Alta |Como Secretário de Mobilidade, quero acessar o ranking dos estados com maiores índices de mortalidade, para comparar o cenário entre as diferentes regiões e identificar onde as ações de segurança viária precisam ser acompanhadas com maior atenção. | 5 | 2 |
 | 13 | Alta | Como cidadão, quero aplicar filtros por estado, região e ano, para que eu consiga consultar a situação da segurança viária na minha própria região. | 5 | 2 |
 | 14 | Média | Como gestor estadual, quero comparar os indicadores do meu estado com os de outros estados vizinhos, para que eu entenda o nosso desempenho relativo de segurança. | 5 | 2 |
-| 15 | Alta | Como especialista em segurança viária, quero visualizar um radar de fatores de risco por estado, para que possamos diagnosticar múltiplos aspectos de perigo em uma só tela. | 8 | 2 |
 | 16 | Alta | Como planejador de logística, quero analisar a relação entre a frota pesada (caminhões/ônibus) e os acidentes, para que possamos propor normas específicas para o transporte de cargas. | 8 | 3 |
 | 17 | Média | Como gestor regional, quero comparar os indicadores das 5 regiões do Brasil, para que possamos entender as desigualdades regionais em infraestrutura viária. | 5 | 3 |
 | 18 | Alta | Como Comandante da Polícia Rodoviária, quero visualizar um mapa de concentração de sinistros com veículos pesados, para que eu posicione equipes de fiscalização nos pontos mais perigosos. | 8 | 3 |

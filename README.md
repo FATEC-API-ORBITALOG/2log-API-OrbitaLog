@@ -1,8 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Template
-
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+# Aprendizado por Projeto Integrado (API) 
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -12,10 +8,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Registro das Sprints](#Registro-das-Sprints)
 
 
-# Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+# Projeto (API) Projeto de análise da segurança viária alicerçado em dados oficiais de frota, população, sinistros e mortes, organizados entre 2015 e 2025. Uso de Python para tratamento e padronização dos dados e Power BI para integração, análise e visualização dos indicadores, permitindo avaliar a relação entre frota e fatalidades no trânsito.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -42,9 +35,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Jira Software
 * Power BI
 * Microsoft Excel
-* Slack
 * Python (Colab)
-* Mysql
+
 
 
 
@@ -65,10 +57,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
   
 # Registro das Sprints
 
-| Sprint            | Previsão   | Status   | Histórico |
-|-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| Sprint            | Previsão   |  Status   | Histórico |
+|-------------------|------------|-----------|-----------|
+| 01                | 30/09/2026 | concluída | [MVP](MVP/sp1.md)  |
+| 02                | dd/mm/aaaa | a fazer   | [MVP](MVP/sp2.md)  |
+| 03                | dd/mm/aaaa | a fazer   | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 03/12/2026 | a fazer   | [MVP](#)  |
 

@@ -42,13 +42,35 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Product Backlog
 
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+| Rank | Prioridade | User Story | Estimativa | Sprint |
+|---:|---|---|---:|---:|
+| 1 | Alta | Como gestor de trânsito, quero identificar e selecionar dados oficiais de frota, população, mortes e sinistros, para que o painel seja abastecido com fontes públicas oficiais e confiáveis. | 5 | 1 |
+| 2 | Alta | Como analista de políticas públicas, quero organizar os dados de 2015 a 2025 por estado e ano, para que eu consiga analisar a série histórica da segurança viária na última década. | 8 | 1 |
+| 3 | Alta | Como auditor de dados, quero aplicar procedimentos de limpeza em Python, para que inconsistências e dados nulos não distorçam os indicadores finais de mortalidade. | 8 | 1 |
+| 4 | Alta | Como analista de negócios, quero padronizar nomes de estados e categorias, para que possamos cruzar informações de diferentes órgãos sem falhas de divergência. | 5 | 1 |
+| 5 | Alta | Como pesquisador de mobilidade, quero integrar dados de frota, população, acidentes e mortes em um único ambiente, para que eu possa avaliar o impacto real do tamanho da frota nas fatalidades. | 20 | 1 |
+| 6 | Alta | Como projetista de BI, quero criar a estrutura de relacionamento entre as tabelas no Power BI, para que os relatórios carreguem de forma rápida e fluida para os usuários. | 8 | 1 |
+| 7 | Alta | Como gestor de trânsito, quero visualizar indicadores básicos de mortes, sinistros e frota, para que eu tenha uma medição imediata da situação geral do país. | 5 | 1 |
+| 8 | Média | Como auditor de governança, quero ter acesso à documentação técnica inicial das fontes e tratamentos, para que haja transparência e reprodutibilidade em todo o processo analítico. | 5 | 1 |
+| 9 | Alta | Como gestor público, quero visualizar uma visão geral nacional dos indicadores, para que eu obtenha um panorama rápido para tomadas de decisão de alto nível. | 8 | 2 |
+| 10 | Alta | Como fiscal de trânsito, quero visualizar os dados através de um mapa interativo por estado, para que eu consiga identificar geograficamente as regiões com maior número de acidentes. | 8 | 2 |
+| 11 | Alta | Como Secretário de Mobilidade, quero acessar o ranking dos estados com maiores índices de mortalidade, para que possamos direcionar verbas e recursos para os locais mais críticos. | 5 | 2 |
+| 12 | Alta | Como analista econômico, quero acompanhar a evolução dos indicadores de 2015 a 2025 em gráficos, para que eu avalie a efetividade das leis e políticas aplicadas ao longo dos anos. | 5 | 2 |
+| 13 | Alta | Como cidadão, quero aplicar filtros por estado, região e ano, para que eu consiga consultar a situação da segurança viária na minha própria região. | 5 | 2 |
+| 14 | Média | Como gestor estadual, quero comparar os indicadores do meu estado com os de outros estados vizinhos, para que eu entenda o nosso desempenho relativo de segurança. | 5 | 2 |
+| 15 | Alta | Como especialista em segurança viária, quero visualizar um radar de fatores de risco por estado, para que possamos diagnosticar múltiplos aspectos de perigo em uma só tela. | 8 | 2 |
+| 16 | Alta | Como planejador de logística, quero analisar a relação entre a frota pesada (caminhões/ônibus) e os acidentes, para que possamos propor normas específicas para o transporte de cargas. | 8 | 3 |
+| 17 | Média | Como gestor regional, quero comparar os indicadores das 5 regiões do Brasil, para que possamos entender as desigualdades regionais em infraestrutura viária. | 5 | 3 |
+| 18 | Alta | Como Comandante da Polícia Rodoviária, quero visualizar um mapa de concentração de sinistros com veículos pesados, para que eu posicione equipes de fiscalização nos pontos mais perigosos. | 8 | 3 |
+| 19 | Média | Como gestor de infraestrutura, quero analisar a distância entre pontos de descanso e a localização dos sinistros, para que possamos criar novas áreas de descanso onde os motoristas mais precisam. | 8 | 3 |
+| 20 | Média | Como gestor público, quero acessar um painel com casos de sucesso de outros estados, para que eu possa replicar boas práticas que reduziram mortes no trânsito. | 8 | 3 |
+| 21 | Alta | Como tomador de decisão governamental, quero transformar os problemas encontrados em recomendações diretas, para que possamos fundamentar novas propostas de leis e políticas públicas. | 5 | 3 |
+| 22 | Alta | Como diretor de órgão público, quero um relatório técnico consolidado, para que possamos apresentar resultados oficiais à sociedade e órgãos reguladores. | 8 | 3 |
+| 23 | Média | Como responsável pelo sistema, quero ter uma documentação final completa dos scripts e modelos, para que qualquer novo profissional consiga dar manutenção no sistema no futuro. | 5 | 3 |
+| 24 | Alta | Como analista de qualidade, quero realizar testes completos de navegação e cálculos, para que o público receba uma plataforma confiável e livre de erros. | 5 | 3 |
+| 25 | Média | Como usuário da plataforma, quero navegar em uma interface limpa, moderna e acessível, para que a leitura dos gráficos e a navegação sejam simples e intuitivas. | 5 | 3 |
+| 26 | Alta | Como porta-voz do projeto, quero ter um material visual de apresentação pronto, para que eu possa expor os resultados para a imprensa, investidores ou lideranças. | 5 | 3 |
+
 
 
 

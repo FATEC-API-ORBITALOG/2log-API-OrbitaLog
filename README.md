@@ -8,7 +8,7 @@
 * [Registro das Sprints](#Registro-das-Sprints)
 
 
-# Projeto (API) Projeto de análise da segurança viária alicerçado em dados oficiais de frota, população, sinistros e mortes, organizados entre 2015 e 2025. Uso de Python para tratamento e padronização dos dados e Power BI para integração, análise e visualização dos indicadores, permitindo avaliar a relação entre frota e fatalidades no trânsito.
+Projeto (API) Projeto de análise da segurança viária alicerçado em dados oficiais de frota, população, sinistros e mortes, organizados entre 2015 e 2025. Uso de Python para tratamento e padronização dos dados e Power BI para integração, análise e visualização dos indicadores, permitindo avaliar a relação entre frota e fatalidades no trânsito.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |

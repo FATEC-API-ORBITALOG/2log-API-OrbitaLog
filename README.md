@@ -38,21 +38,18 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Python (Colab)
 
 
-
-
 # Product Backlog
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |---:|---|---|---:|---:|
-| 1 | Alta | Como gestor de trânsito, quero identificar e selecionar dados oficiais de frota, população, mortes e sinistros, para que o painel seja abastecido com fontes públicas oficiais e confiáveis. | 5 | 1 |
-| 2 | Alta | Como analista de políticas públicas, quero organizar os dados de 2015 a 2025 por estado e ano, para que eu consiga analisar a série histórica da segurança viária na última década. | 8 | 1 |
-| 3 | Alta | Como auditor de dados, quero aplicar procedimentos de limpeza em Python, para que inconsistências e dados nulos não distorçam os indicadores finais de mortalidade. | 8 | 1 |
+| 1 | Alta | Como auditor de dados, quero aplicar procedimentos de limpeza em Python, para que inconsistências e dados nulos não distorçam os indicadores finais de mortalidade. | 8 | 1 |
+| 2 | Alta |Como gestor de trânsito, quero identificar e selecionar dados oficiais de frota, população, mortes e sinistros, para apoiar decisões estratégicas de segurança viária. | 5 | 1 |
+| 3 | Alta | Como analista de políticas públicas, quero organizar os dados de 2015 a 2025 por estado e ano, para apoiar a definição de políticas públicas mais eficientes para a segurança viária. | 8 | 1 |
 | 4 | Alta | Como analista de negócios, quero padronizar nomes de estados e categorias, para que possamos cruzar informações de diferentes órgãos sem falhas de divergência. | 5 | 1 |
 | 5 | Alta | Como pesquisador de mobilidade, quero integrar dados de frota, população, acidentes e mortes em um único ambiente, para que eu possa avaliar o impacto real do tamanho da frota nas fatalidades. | 20 | 1 |
-| 6 | Alta | Como projetista de BI, quero criar a estrutura de relacionamento entre as tabelas no Power BI, para que os relatórios carreguem de forma rápida e fluida para os usuários. | 8 | 1 |
+| 6 | Alta | Como projetista de BI, quero criar a estrutura de relacionamento entre as tabelas no Power BI, para que os relatórios carreguem de forma rápida e fluida para os usuários. | 8 | 2 |
 | 7 | Alta | Como gestor de trânsito, quero visualizar indicadores básicos de mortes, sinistros e frota, para que eu tenha uma medição imediata da situação geral do país. | 5 | 1 |
-| 8 | Média | Como auditor de governança, quero ter acesso à documentação técnica inicial das fontes e tratamentos, para que haja transparência e reprodutibilidade em todo o processo analítico. | 5 | 1 |
-| 9 | Alta | Como gestor público, quero visualizar uma visão geral nacional dos indicadores, para que eu obtenha um panorama rápido para tomadas de decisão de alto nível. | 8 | 2 |
+| 9 | Alta |Como gestor público, quero ter uma visão geral nacional dos indicadores, para obter uma compreensão rápida e consolidada da situação da segurança viária, apoiando a tomada de decisões estratégicas| 8 | 2 |
 | 10 | Alta | Como fiscal de trânsito, quero visualizar os dados através de um mapa interativo por estado, para que eu consiga identificar geograficamente as regiões com maior número de acidentes. | 8 | 2 |
 | 11 | Alta | Como Secretário de Mobilidade, quero acessar o ranking dos estados com maiores índices de mortalidade, para que possamos direcionar verbas e recursos para os locais mais críticos. | 5 | 2 |
 | 12 | Alta | Como analista econômico, quero acompanhar a evolução dos indicadores de 2015 a 2025 em gráficos, para que eu avalie a efetividade das leis e políticas aplicadas ao longo dos anos. | 5 | 2 |

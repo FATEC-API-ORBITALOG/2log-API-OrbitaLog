@@ -78,12 +78,12 @@ O propósito deste MVP é consolidar, limpar e disponibilizar dados históricos 
 ---
 
 ##  Métricas de Validação
-| Número de usuários que testaram o MVP| 7 |
-| Feedback qualitativo | Positivo
-| Indicadores de negócio |  **Taxa de aproveitamento dos dados:** percentual de registros válidos após a limpeza, sobre o total ingerido das bases oficiais.
-- **Redução de inconsistências:** quantidade de inconsistências, nulos e divergências de nomenclatura eliminadas em cada base de origem.
-- **Cobertura temporal e geográfica:** percentual de estados e de anos (2015–2025) com dados completos e padronizados na base final.
-- **Reuso da base pelas sprints seguintes:** quantidade de sprints e de análises que consomem a base limpa como fonte única, sem retrabalho de tratamento. |
+| Número de usuários que testaram o MVP| Feedback qualitativo |                                                            Indicadores de negócio                                                                       | 
+|--------------------------------------|-------------- -------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+                                                              |**Taxa de aproveitamento dos dados:** percentual de registros válidos após a limpeza, sobre o total ingerido das bases oficiais.                         |
+                                                              |**Redução de inconsistências:** quantidade de inconsistências, nulos e divergências de nomenclatura eliminadas em cada base de origem.                  |
+                                                              |**Cobertura temporal e geográfica:** percentual de estados e de anos (2015–2025) com dados completos e padronizados na base final.                       |
+                                                              |**Reuso da base pelas sprints seguintes:** quantidade de sprints e de análises que consomem a base limpa como fonte única, sem retrabalho de tratamento. |
 
 ---
 

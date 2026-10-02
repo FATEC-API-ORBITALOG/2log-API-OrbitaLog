@@ -31,7 +31,7 @@ O propósito deste MVP é consolidar, limpar e disponibilizar dados históricos 
   - Não há, nesta etapa, integração automática com as APIs dos órgãos.
   - Indicadores dependem da padronização prévia; divergências remanescentes geram ressalvas.
 
-- **Escopo reduzido (somente o essencial para validar a ideia)**
+- **Escopo reduzido**
   - Uma base consolidada e limpa, um conjunto de indicadores básicos e uma visualização simples.
   - Sem modelagem preditiva, sem alertas em tempo real e sem controle de acesso por perfil.
 
@@ -74,7 +74,7 @@ O propósito deste MVP é consolidar, limpar e disponibilizar dados históricos 
 
 - A base de dados deve estar **limpa**: sem inconsistências, sem dados nulos e sem divergências de nomenclatura de estados e categorias.
 - As próximas sprints devem funcionar **a partir dessa base limpa**, consumindo-a como fonte única de dados já tratados.
-- 
+
 ---
 
 ##  Métricas de Validação
@@ -90,9 +90,8 @@ O propósito deste MVP é consolidar, limpar e disponibilizar dados históricos 
 ---
 
 ##  Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Explorar melhor a base 44.
+- Seguir com os dados para a realização da segunda sprint.
 
 ---
 

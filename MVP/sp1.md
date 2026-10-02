@@ -1,4 +1,4 @@
-#  MVP - [Nome do Projeto]
+#  MVP - OrbitaLog
 
 ##  Objetivo do MVP
 
@@ -68,17 +68,22 @@ O propósito deste MVP é consolidar, limpar e disponibilizar dados históricos 
 
 ---
 
-##  Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+## Critérios de Aceitação
 
+## Critérios de Aceitação
+
+- A base de dados deve estar **limpa**: sem inconsistências, sem dados nulos e sem divergências de nomenclatura de estados e categorias.
+- As próximas sprints devem funcionar **a partir dessa base limpa**, consumindo-a como fonte única de dados já tratados.
+- 
 ---
 
 ##  Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+| Número de usuários que testaram o MVP| 7 |
+| Feedback qualitativo | Positivo
+| Indicadores de negócio |  **Taxa de aproveitamento dos dados:** percentual de registros válidos após a limpeza, sobre o total ingerido das bases oficiais.
+- **Redução de inconsistências:** quantidade de inconsistências, nulos e divergências de nomenclatura eliminadas em cada base de origem.
+- **Cobertura temporal e geográfica:** percentual de estados e de anos (2015–2025) com dados completos e padronizados na base final.
+- **Reuso da base pelas sprints seguintes:** quantidade de sprints e de análises que consomem a base limpa como fonte única, sem retrabalho de tratamento. |
 
 ---
 

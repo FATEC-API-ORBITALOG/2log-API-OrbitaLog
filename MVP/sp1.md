@@ -16,17 +16,36 @@ O propósito deste MVP é consolidar, limpar e disponibilizar dados históricos 
 
 ---
 
-##  Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+## Descrição da Solução
+
+- **Funcionalidades principais incluídas**
+  - Ingestão e limpeza dos dados oficiais em Python (tratamento de valores nulos e inconsistências).
+  - Padronização de nomes de estados e categorias para permitir o cruzamento entre órgãos.
+  - Organização dos dados de 2015 a 2025 por estado e por ano.
+  - Ambiente único que integra frota, população, acidentes e mortes.
+  - Painel de indicadores básicos de mortes, sinistros e frota.
+
+- **Limitações conhecidas**
+  - Qualidade e formato heterogêneo das bases de origem limitam a automação total da limpeza.
+  - Dados podem ter defasagem de publicação e incompletude em anos recentes.
+  - Não há, nesta etapa, integração automática com as APIs dos órgãos.
+  - Indicadores dependem da padronização prévia; divergências remanescentes geram ressalvas.
+
+- **Escopo reduzido (somente o essencial para validar a ideia)**
+  - Uma base consolidada e limpa, um conjunto de indicadores básicos e uma visualização simples.
+  - Sem modelagem preditiva, sem alertas em tempo real e sem controle de acesso por perfil.
 
 ---
 
-##  Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+## Personas / Usuários-Alvo
+
+- **Persona 1 (Auditor de dados / Analista de negócios):** profissional responsável por garantir a consistência das bases. Precisa de rotinas de limpeza reprodutíveis e de uma padronização de nomes de estados e categorias. Suas dores são inconsistências e dados nulos que distorcem os indicadores e falhas de divergência no cruzamento entre órgãos.
+
+- **Persona 2 (Gestor de trânsito):** tomador de decisão em segurança viária. Precisa visualizar indicadores básicos de mortes, sinistros e frota e selecionar dados oficiais de frota, população, mortes e sinistros. Sua dor é a falta de uma medição imediata e confiável da situação geral do país para decisões estratégicas.
+
+- **Persona 3 (Analista de políticas públicas):** formulador de políticas. Precisa dos dados organizados de 2015 a 2025 por estado e ano. Sua dor é não conseguir comparar séries históricas para definir políticas mais eficientes.
+
+- **Persona 4 (Pesquisador de mobilidade):** estudioso do impacto do trânsito. Precisa cruzar frota, população, acidentes e mortes em um único ambiente. Sua dor é não conseguir avaliar o impacto real do tamanho da frota sobre as fatalidades.
 
 ---
 

@@ -61,10 +61,13 @@ O propósito deste MVP é consolidar, limpar e disponibilizar dados históricos 
 ---
 
 ##  Sprint(s) Relacionadas
-| Sprint | Entregas Principais                          | Status   |
-|--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| Sprint | Entregas Principais |Status   |
+|:------|---|------:|
+| 1 | Como auditor de dados, quero aplicar procedimentos de limpeza em Python, para que inconsistências e dados nulos não distorçam os indicadores finais de mortalidade. | Concluído |
+| 2 | Como gestor de trânsito, quero identificar e selecionar dados oficiais de frota, população, mortes e sinistros, para apoiar decisões estratégicas de segurança viária. | Concluído |
+| 3 | Como analista de políticas públicas, quero organizar os dados de 2015 a 2025 por estado e ano, para apoiar a definição de políticas públicas mais eficientes para a segurança viária. | Concluído |
+| 4 |  Como analista de negócios, quero padronizar nomes de estados e categorias, para que possamos cruzar informações de diferentes órgãos sem falhas de divergência. | Concluído |
+| 5 | Como pesquisador de mobilidade, quero integrar dados de frota, população, acidentes e mortes em um único ambiente, para que eu possa avaliar o impacto real do tamanho da frota nas fatalidades. | Concluído |
 
 ---
 
@@ -95,7 +98,23 @@ O propósito deste MVP é consolidar, limpar e disponibilizar dados históricos 
 
 ---
 
-## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+ Anexos / Evidências
+
+
+## <img width="1600" height="431" alt="WhatsApp Image 2026-10-01 at 21 02 24" src="https://github.com/user-attachments/assets/ffcbe50d-006e-4c0d-8151-691e9bcd28cc" />
+
+
+<img width="1435" height="813" alt="WhatsApp Image 2026-10-01 at 21 03 56" src="https://github.com/user-attachments/assets/210ca1c1-9cae-4795-9781-d7b04c3210fb" />
+
+
+<img width="1440" height="607" alt="WhatsApp Image 2026-10-01 at 21 03 56 (1)" src="https://github.com/user-attachments/assets/40a7b948-3a34-438a-b489-48cb90b22776" />
+
+
+https://github.com/user-attachments/assets/c40fd746-2edc-414e-a55f-3376c6ff1d42
+
+
+
+
+
+
+

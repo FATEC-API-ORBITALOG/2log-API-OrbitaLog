@@ -102,9 +102,13 @@ Desenvolvimento de um dashboard no Power BI para visualização e análise dos i
 ---
 
 ##  Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- **Número de usuários que testaram o MVP:** 6 pessoas.
+- **Feedback qualitativo:** Positivo.
+- **Indicadores de negócio:**
+  - **Usabilidade:** avaliação positiva dos usuários durante os testes.
+  - **Facilidade de navegação:** capacidade de consultar os indicadores no dashboard.
+  - **Identificação de regiões críticas:** possibilidade de visualizar áreas com maiores índices de acidentes e mortalidade.
+  - **Eficiência na análise:** facilidade de comparar os indicadores de segurança viária.
 
 ---
 

@@ -48,8 +48,18 @@ Desenvolvimento de um dashboard no Power BI para visualização e análise dos i
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+
+- **Persona 1 (Projetista de BI):** profissional responsável por desenvolver a estrutura de dados no Power BI. Precisa organizar os relacionamentos entre as tabelas para garantir que os relatórios carreguem de forma rápida e fluida. Sua dor é a dificuldade de integrar os dados de maneira eficiente e manter o bom desempenho das visualizações.
+
+- **Persona 2 (Gestor público):** responsável por acompanhar os indicadores de segurança viária. Precisa de uma visão geral dos indicadores nacionais para compreender rapidamente a situação do país e apoiar a tomada de decisões estratégicas. Sua dor é a dificuldade de obter uma visão consolidada e confiável dos dados.
+
+- **Persona 3 (Fiscal de trânsito):** profissional que acompanha a ocorrência de acidentes nas diferentes regiões. Precisa visualizar os dados em um mapa interativo por estado para identificar geograficamente as regiões com maior número de acidentes. Sua dor é a dificuldade de localizar áreas críticas e priorizar ações de fiscalização.
+
+- **Persona 4 (Secretário de Mobilidade):** responsável por planejar e acompanhar políticas de segurança viária. Precisa consultar o ranking dos estados com maiores índices de mortalidade para comparar as regiões e identificar onde as ações devem receber maior atenção. Sua dor é a dificuldade de avaliar diferenças regionais e definir prioridades.
+
+- **Persona 5 (Cidadão):** pessoa interessada em conhecer a situação da segurança viária em sua região. Precisa aplicar filtros por estado, região e ano para consultar os indicadores de sua localidade. Sua dor é a dificuldade de encontrar informações específicas e compreender a realidade local.
+
+- **Persona 6 (Gestor estadual):** responsável por acompanhar os indicadores de segurança viária de seu estado. Precisa comparar os resultados com os de outros estados para compreender o desempenho regional. Sua dor é a dificuldade de identificar diferenças entre localidades e avaliar oportunidades de melhoria.
 
 ---
 

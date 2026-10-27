@@ -1,14 +1,22 @@
-# 📌 MVP - [Nome do Projeto]
+#  MVP - OrbitaLog
 
-## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+##  Objetivo do MVP
+
+- **Qual problema resolve?**
+
+Resolve a dificuldade de centralizar e visualizar os indicadores de segurança viária, reduzindo o tempo necessário para identificar estados e regiões com maior número de acidentes e facilitando a comparação dos indicadores entre estados e períodos.
+
+- **Qual hipótese será validada?**
+
+A utilização de um dashboard interativo permitirá que gestores públicos, fiscais de trânsito e cidadãos consultem os indicadores de segurança viária de forma mais rápida, facilitando a identificação de regiões críticas e apoiando a tomada de decisões.
+
+- **Qual valor será entregue ao usuário final?**
+
+Entrega uma visão consolidada dos indicadores nacionais, permitindo identificar regiões críticas, comparar estados e regiões e consultar informações por localização e período, apoiando a tomada de decisões estratégicas.
 
 ---
 
-## 📝 Descrição da Solução
+##  Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
 - Funcionalidades principais incluídas  
 - Limitações conhecidas  

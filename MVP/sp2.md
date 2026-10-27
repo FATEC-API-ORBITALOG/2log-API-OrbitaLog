@@ -26,6 +26,12 @@ Desenvolvimento de um dashboard no Power BI para visualização e análise dos i
   - Mapa interativo de acidentes por estado.
   - Filtros por estado, região e ano.
   - Gráficos, tabelas e cartões de indicadores.
+ 
+- **Limitações conhecidas**
+  - Dependência da qualidade e disponibilidade dos dados.
+  - Indicadores limitados às informações existentes na base.
+  - Atualização condicionada ao processo de carga dos dados.
+
 
 ---
 

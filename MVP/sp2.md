@@ -25,12 +25,11 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-7	Alta	Como projetista de BI, quero criar a estrutura de relacionamento entre as tabelas no Power BI, para que os relatórios carreguem de forma rápida e fluida para os usuários.	8	2
-8	Alta	Como gestor público, quero ter uma visão geral nacional dos indicadores, para obter uma compreensão rápida e consolidada da situação da segurança viária, apoiando a tomada de decisões estratégicas	8	2
-9	Alta	Como fiscal de trânsito, quero visualizar os dados através de um mapa interativo por estado, para que eu consiga identificar geograficamente as regiões com maior número de acidentes.	8	2
-10	Alta	Como Secretário de Mobilidade, quero acessar o ranking dos estados com maiores índices de mortalidade, para comparar o cenário entre as diferentes regiões e identificar onde as ações de segurança viária precisam ser acompanhadas com maior atenção.	5	2
-11	Alta	Como cidadão, quero aplicar filtros por estado, região e ano, para que eu consiga consultar a situação da segurança viária na minha própria região.	5	2
-12	Média	Como gestor estadual, quero comparar os indicadores do meu estado com os de outros estados vizinhos, para que eu entenda o nosso desempenho relativo de segurança.	5	2
+8|	Como gestor público, quero ter uma visão geral nacional dos indicadores, para obter uma compreensão rápida e consolidada da situação da segurança viária, apoiando a tomada de decisões estratégicas|	8|	2
+9	|Como fiscal de trânsito, quero visualizar os dados através de um mapa interativo por estado, para que eu consiga identificar geograficamente as regiões com maior número de acidentes.|	8	|2
+10|		Como Secretário de Mobilidade, quero acessar o ranking dos estados com maiores índices de mortalidade, para comparar o cenário entre as diferentes regiões e identificar onde as ações de segurança viária precisam ser acompanhadas com maior atenção.|	5	|2
+11|		Como cidadão, quero aplicar filtros por estado, região e ano, para que eu consiga consultar a situação da segurança viária na minha própria região.|	5|	2
+12|	Como gestor estadual, quero comparar os indicadores do meu estado com os de outros estados vizinhos, para que eu entenda o nosso desempenho relativo de segurança.	|5|	2
 
 ---
 

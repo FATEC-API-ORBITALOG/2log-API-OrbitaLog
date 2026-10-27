@@ -47,7 +47,7 @@ Desenvolvimento de um dashboard no Power BI para visualização e análise dos i
 
 ---
 
-## 👥 Personas / Usuários-Alvo
+##  Personas / Usuários-Alvo
 
 - **Persona 1 (Projetista de BI):** profissional responsável por desenvolver a estrutura de dados no Power BI. Precisa organizar os relacionamentos entre as tabelas para garantir que os relatórios carreguem de forma rápida e fluida. Sua dor é a dificuldade de integrar os dados de maneira eficiente e manter o bom desempenho das visualizações.
 
@@ -74,36 +74,48 @@ Desenvolvimento de um dashboard no Power BI para visualização e análise dos i
 12|	Média|	Como gestor estadual, quero comparar os indicadores do meu estado com os de outros estados vizinhos, para que eu entenda o nosso desempenho relativo de segurança.|	5	|2|
 ---
 
-## 📅 Sprint(s) Relacionadas
+##  Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 07     |Validação, limpeza e padronização dos dados de segurança viária.| Concluído|
+| 08     |Estruturação dos relacionamentos entre tabelas e criação do modelo de dados no Power BI.  | Concluído|
+| 09     |Desenvolvimento dos indicadores nacionais e criação do mapa interativo por estado.           | Concluído|
+| 10     | Implementação do ranking de mortalidade e dos filtros por estado, região e ano.             | Concluído|
+| 11    | Comparação entre estados e regiões, validação dos indicadores e testes de usabilidade.                  | Concluído|
+| 12    | Comparação entre estados, validação dos indicadores e testes de usabilidade. | Concluído|
 
 ---
 
-## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+## Critérios de Aceitação
+
+- O dashboard deve apresentar os principais indicadores nacionais de segurança viária.
+- As tabelas devem possuir relacionamentos consistentes no Power BI.
+- O usuário deve conseguir visualizar os dados em um mapa interativo por estado.
+- Os filtros por estado, região e ano devem funcionar corretamente.
+- Os gráficos e indicadores devem responder aos filtros selecionados.
+- O usuário deve conseguir comparar os indicadores entre estados e regiões.
+- Os valores apresentados devem corresponder aos dados da fonte utilizada.
+- As páginas e visualizações devem funcionar sem erros.
+- O carregamento e a aplicação dos filtros devem ocorrer de forma fluida.
+ 
 
 ---
 
-## 📈 Métricas de Validação
+##  Métricas de Validação
 - Número de usuários que testaram o MVP  
 - Feedback qualitativo (positivo/negativo)  
 - Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
 
 ---
 
-## 🚀 Próximos Passos
+##  Próximos Passos
 - Melhorias planejadas após feedback  
 - Ajustes de usabilidade  
 - Expansão de funcionalidades para próximo incremento  
 
 ---
 
-## 📂 Anexos / Evidências
+##  Anexos / Evidências
 - Prints de tela  
 - Fluxos ou protótipos  
 - Vídeo (MVP)  

@@ -128,6 +128,9 @@ Desenvolvimento de um dashboard no Power BI para visualização e análise dos i
 ---
 
 ##  Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+
+
+https://github.com/user-attachments/assets/039c4c77-806e-489e-b6d5-086bffcb5559
+
+<img width="871" height="489" alt="image" src="https://github.com/user-attachments/assets/5332527a-9a8d-4d0c-9586-347503a766e1" />
+

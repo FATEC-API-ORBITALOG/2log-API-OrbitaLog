@@ -113,9 +113,17 @@ Desenvolvimento de um dashboard no Power BI para visualização e análise dos i
 ---
 
 ##  Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Desenvolver análises da relação entre frota de veículos pesados e acidentes.
+- Comparar os indicadores de segurança viária entre as cinco regiões do Brasil.
+- Criar mapas de concentração de sinistros envolvendo veículos pesados.
+- Analisar a localização dos acidentes em relação aos pontos de descanso.
+- Identificar boas práticas de outros estados para reduzir mortes no trânsito.
+- Gerar recomendações para políticas públicas com base nos indicadores.
+- Elaborar relatórios técnicos com os principais resultados.
+- Documentar os scripts, modelos e processos utilizados no projeto.
+- Realizar testes de navegação, cálculos e confiabilidade do dashboard.
+- Melhorar a acessibilidade, a navegação e a apresentação dos gráficos.
+- Preparar material visual para apresentar os resultados do projeto.
 
 ---
 

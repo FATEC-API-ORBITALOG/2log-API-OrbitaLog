@@ -63,9 +63,9 @@ Desenvolvimento de um dashboard no Power BI para visualização e análise dos i
 
 ---
 
-## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
+##  User Stories (Backlog do MVP)
+| Rank | Prioridade | User Story | Estimativa | Sprint |
+|---:|---|---|---:|---:|
 7	|Alta|	Como projetista de BI, quero criar a estrutura de relacionamento entre as tabelas no Power BI, para que os relatórios carreguem de forma rápida e fluida para os usuários.	|8|	2|
 8|	Alta|	Como gestor público, quero ter uma visão geral nacional dos indicadores, para obter uma compreensão rápida e consolidada da situação da segurança viária, apoiando a tomada de decisões estratégicas	|8	|2|
 9|	Alta|	Como fiscal de trânsito, quero visualizar os dados através de um mapa interativo por estado, para que eu consiga identificar geograficamente as regiões com maior número de acidentes.	|8	|2|

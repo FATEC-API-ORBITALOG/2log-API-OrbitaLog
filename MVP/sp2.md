@@ -29,11 +29,21 @@ Desenvolvimento de um dashboard no Power BI para visualização e análise dos i
   - Gráficos, tabelas e cartões de indicadores.
  
 - **Limitações conhecidas**
-- 
+  
   - Dependência da qualidade e disponibilidade dos dados.
   - Indicadores limitados às informações existentes na base.
   - Atualização condicionada ao processo de carga dos dados.
 
+- **Escopo reduzido**
+
+  O MVP contemplará somente as funcionalidades essenciais para validar a solução:
+
+  - Modelo de dados e relacionamentos.
+  - Indicadores nacionais e estaduais.
+  - Mapa interativo.
+  - Soma de mortalidade.
+  - Filtros geográficos e temporais.
+  - Comparação entre estados.
 
 ---
 

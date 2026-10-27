@@ -19,10 +19,13 @@ Entrega uma visão consolidada dos indicadores nacionais, permitindo identificar
 ---
 
 ##  Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+Desenvolvimento de um dashboard no Power BI para visualização e análise dos indicadores de segurança viária, utilizando tabelas relacionadas, medidas e visualizações interativas.
+
+- **Funcionalidades principais incluídas**
+  - Visão geral dos indicadores nacionais de segurança viária.
+  - Mapa interativo de acidentes por estado.
+  - Filtros por estado, região e ano.
+  - Gráficos, tabelas e cartões de indicadores.
 
 ---
 

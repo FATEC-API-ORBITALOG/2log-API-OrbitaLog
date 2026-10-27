@@ -2,6 +2,8 @@
 
 ##  Objetivo do MVP
 
+Desenvolver um dashboard no Power BI para analisar os indicadores de segurança viária no Brasil, permitindo visualizar acidentes, comparar índices de mortalidade e identificar regiões críticas por meio de gráficos, mapas e filtros interativos.
+
 - **Qual problema resolve?**
 
 Resolve a dificuldade de centralizar e visualizar os indicadores de segurança viária, reduzindo o tempo necessário para identificar estados e regiões com maior número de acidentes e facilitando a comparação dos indicadores entre estados e períodos.

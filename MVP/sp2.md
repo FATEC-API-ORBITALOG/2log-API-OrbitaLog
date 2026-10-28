@@ -134,3 +134,18 @@ https://github.com/user-attachments/assets/039c4c77-806e-489e-b6d5-086bffcb5559
 
 <img width="871" height="489" alt="image" src="https://github.com/user-attachments/assets/5332527a-9a8d-4d0c-9586-347503a766e1" />
 
+
+Para âmbitos de estudos, comparações com o Power BI e análise da ferramenta, utilizamos a plataforma Base44 para a criação de um Dashboard baseado no backlog da segunda sprint, contendo as informações de sinistros do ano de 2020.
+
+
+https://github.com/user-attachments/assets/51d5f01b-d230-47c4-a3ab-fc9fa0fbc9dc
+
+<img width="1133" height="296" alt="WhatsApp Image 2026-10-28 at 19 38 06" src="https://github.com/user-attachments/assets/0c18f0c6-c580-4450-b280-3140e95af05d" />
+
+<img width="631" height="212" alt="WhatsApp Image 2026-10-28 at 19 34 55" src="https://github.com/user-attachments/assets/e8c70995-84b2-499e-87a8-001dc1b3117f" />
+
+<img width="1145" height="328" alt="WhatsApp Image 2026-10-28 at 19 38 06 (1)" src="https://github.com/user-attachments/assets/716ac635-0c89-4a57-84f4-d124200d75a1" />
+
+
+
+

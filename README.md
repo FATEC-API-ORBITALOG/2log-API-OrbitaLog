@@ -77,6 +77,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 |-------------------|------------|-----------|-----------|
 | 01                | 30/09/2026 | concluída | [MVP](MVP/sp1.md)  |
 | 02                | 28/10/2026 | concluída   | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer   | [MVP](MVP/sp3.md)  |
+| 03                | 27/11/2026 | concluída  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 03/12/2026 | a fazer   | [MVP](#)  |
 

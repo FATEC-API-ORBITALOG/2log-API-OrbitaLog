@@ -1,4 +1,4 @@
-#  MVP - OrbitaLog
+ni#  MVP - OrbitaLog
 
 ## Objetivo do Projeto
 
@@ -155,6 +155,8 @@ https://github.com/user-attachments/assets/43e453bb-d02e-48f3-9ebd-f8a83e3fee6b
 
 https://github.com/user-attachments/assets/ce66df93-9850-492d-b846-863ae2d3d54c
 
+
+https://youtu.be/xRQuMSHDs_Q?si=deIG3VKqVUOE7eJ0
 
 
 
